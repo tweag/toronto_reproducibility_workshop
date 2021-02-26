@@ -1,0 +1,5 @@
+pandas
+celluloid
+numpy
+matplotlib
+python-dateutil
